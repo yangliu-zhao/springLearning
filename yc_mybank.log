@@ -1,0 +1,3 @@
+2021-04-25 20:29:06.534  INFO 14760 --- [restartedMain] com.yc.MybankApplication                 : Starting MybankApplication using Java 1.8.0_65 on YLMF-2019ZCVRXW with PID 14760 (E:\spring\spring\springLearning\mybank\target\classes started by Administrator in E:\spring\spring\springLearning)
+2021-04-25 20:29:06.543  INFO 14760 --- [restartedMain] com.yc.MybankApplication                 : No active profile set, falling back to default profiles: default
+2021-04-25 20:29:11.768  INFO 14760 --- [restartedMain] com.yc.MybankApplication                 : Started MybankApplication in 6.383 seconds (JVM running for 10.375)

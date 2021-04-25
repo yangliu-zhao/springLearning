@@ -17,6 +17,7 @@ import java.util.List;
 @RunWith(SpringRunner.class)
 @ContextConfiguration(classes = AppConfig.class)
 public class TestDao {
+
     @Autowired
     private DataSource dataSource;
 
@@ -34,7 +35,7 @@ public class TestDao {
         Assert.assertNotNull(accountsDao);
 
     }
-
+/*
     @Test   //开户
     public void testOpenAccounts() {
         Accounts accounts = new Accounts();
@@ -55,5 +56,5 @@ public class TestDao {
         Accounts a = this.accountsDao.findAccount(4);
         System.out.println(a);
     }
-
+*/
 }
